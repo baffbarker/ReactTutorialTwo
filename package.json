@@ -1,0 +1,21 @@
+{
+  "name": "reacttutorialtwo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js",
+    "server": "cd server && nodemon start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/baffbarker/ReactTutorialTwo.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/baffbarker/ReactTutorialTwo/issues"
+  },
+  "homepage": "https://github.com/baffbarker/ReactTutorialTwo#readme"
+}
